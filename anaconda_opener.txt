@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/Users/jdcampolargo/opt/anaconda3/bin/jupyter_mac.command ; exit;
